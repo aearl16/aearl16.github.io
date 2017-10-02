@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+---
+title: Aaron Earl
+---
 
-You can use the [editor on GitHub](https://github.com/aearl16/aearl16.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to My Github Page!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This will be my main page for CS460 and to be used for my portfolio.
 
-### Markdown
+## About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi, my name is Aaron Earl and I am a senior at Western Oregon university. Currently I am majoring in Computer Science and am working on a minor in Entreprenuership. I plan to graduate in Fall 2018 or spring 2019 depending on scheduling. I am currently interning at Intel in the Engineering Computing department. It has be fortunate because I have gotten a great headstart on the material for this class, learning things like Jira, Agile, and Git team management. I am looking forward to this school year and looking forward to graduating!
 
-```markdown
-Syntax highlighted code block
+# Homework 1
 
-# Header 1
-## Header 2
-### Header 3
+I'll have to admit HTML and web design is not my strongest talent. I have really been trying to learn this and I kept putting it off until now. Luckily I was doing some similar things at work for a couple of weeks but I still have tons to learn about this stuff. I really have trouble with the boostrap containers and column system. I still haven't gotten that portion to work.
 
-- Bulleted
-- List
+All of the work for this assignment can be found here: [My Website Repo](https://github.com/aearl16/CS460_Web)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aearl16/aearl16.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
