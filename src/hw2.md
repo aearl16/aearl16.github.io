@@ -222,3 +222,14 @@ The last peice was adding some styling to the blank divs I created for dragging 
     border: 1px solid #000000;
 }
 ```
+The final piece of this assignment was merging the feature branch into master.
+
+```shell
+git checkout master
+git merge HW2_feature
+git push origin master
+git stash
+git pull
+```
+
+I stashed the master branch so I could pull soen the merged code and prevent untracked files from causing conflicts.
