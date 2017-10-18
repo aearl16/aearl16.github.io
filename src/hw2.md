@@ -159,7 +159,7 @@ The next piece was creating the new page and adding the draggable elements. Imag
             <br></br>
     </div>
 ```
-I made the defualt page elements but then I needed to make the javascript methods to move the elements around. Most of the javascript just calls properties already available in the obejct tags. I apologize in advance. I meant to comment the js code but I forgot. The main gist is that a drag and a drop event occurs. As the element is dragged accross the page, nothing happens. The second event occurs when the element is dropped. It is then appended to the object that it is dropped in. By defualt I have set it to the custom divs; they listen for the drop event and run drop() after they have detected it. The last three methods set the draggable attribute on the user selected elements.
+I made the default page elements but then I needed to make the javascript methods to move the elements around. The javascript methods just call properties that are already available in object tags. I apologize in advance. I meant to comment the js code but I forgot. The main gist is that a drag and a drop event occurs. As the element is dragged accross the page, nothing happens. The second event occurs when the element is dropped. It is then appended to the object that it is dropped in. By default I have set it to the custom divs; they listen for the drop event and run drop() after they have detected it. The last three methods set the draggable attribute on the user selected elements.
 
 ```javascript
 function allowDrop(ev) {
