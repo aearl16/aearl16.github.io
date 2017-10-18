@@ -99,6 +99,7 @@ I copied my general page setup from HW1 so most of the main page code is the sam
 The next piece was creating the new page and adding the draggable elements. Images are draggable by defualt for some reason. I had to change the default draggable value for my image to false. That way the functionality could stay the same.
 
 - This is my header with my defined scripts, css, and other elements
+
 ```html
  <title>Aaron Earl</title>
 		 <meta charset="utf-8">
