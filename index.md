@@ -24,3 +24,10 @@ This will be my first experience programming javascript. It doesn't seem that di
 The repo with the assignement can be found here: [HW2 Repo](https://github.com/aearl16/CS460_HW2)
  - Note: I didn't add this page to my main webpage (mostly because its ugly). It only exists in the repo.
  - Here is a link the HW2 description page [HW2 GH Page](src/hw2.md)
+
+ ## Homework 3
+
+ Conversion of a Java postfix calculator to C#. This project was really interested to do without Java like libraries. I took several approaches to slove the problem and managed to make the conversion.
+
+ The repo with the assignment can be found here: [HW3 Repo](https://github.com/aearl16/CS460_HW3)
+ Link to the HW3 description page [HW3 GH Page](src/hw3.md)
