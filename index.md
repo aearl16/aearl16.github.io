@@ -26,8 +26,8 @@ This will be my first experience programming javascript. It doesn't seem that di
 
 The repo with the assignement can be found here: [HW2 Repo](https://github.com/aearl16/CS460_HW2)
 
-    - Note: I didn't add this page to my main webpage (mostly because its ugly). It only exists in the repo.
-    - Here is a link the HW2 description page [HW2 GH Page](src/hw2.md)
+    Note: I didn't add this page to my main webpage (mostly because its ugly). It only exists in the repo.
+    Here is a link the HW2 description page [HW2 GH Page](src/hw2.md)
 
 ## Homework 3
 
