@@ -1,6 +1,7 @@
 ---
 title: HW4
 ---
+# Homework 4
 
 Again this homework started the same as usual but with the exception of creating all of the branches for each piece.
 
@@ -179,3 +180,11 @@ This is the actual calculator in C#. It allows 0 to be input for the interest ra
             return View();
         }
 ```
+
+## Pictures of the main pages in operation
+
+![Simple URL Query](img/MVCSimple.png)
+
+![Form Page](img/MVCPage2.png)
+
+![Loan Calculator](img/MVCLoanCalc.png)
