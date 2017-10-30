@@ -37,5 +37,11 @@ Here is a link the HW2 description page [HW2 GH Page](src/hw2.md)
  The repo with the assignment can be found here: [HW3 Repo](https://github.com/aearl16/CS460_HW3)
  Link to the HW3 description page: [HW3 GH Page](src/hw3.md)
 
+##Homework 4
+
+Homwork 4 was an introduction to MVC and Razor. I found MVC a little difficult to understand especially without models. The interactions between peices seemed a little strange. There is definetly a great deal of functionality in MVC vs other frameworks I have worked with.
+
+The repo with the assignment can be found here: [HW4 Repo](https://github.com/aearl16/CS460_HW4)
+Link to the HW4 description page: [HW4 GH Page](src/hw4.md)
 
  ----
