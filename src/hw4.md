@@ -183,8 +183,8 @@ This is the actual calculator in C#. It allows 0 to be input for the interest ra
 
 ## Pictures of the main pages in operation
 
-![Simple URL Query](img/MVCSimple.png)
+![Simple URL Query](/img/MVCSimple.png)
 
-![Form Page](img/MVCPage2.png)
+![Form Page](/img/MVCPage2.png)
 
-![Loan Calculator](img/MVCLoanCalc.png)
+![Loan Calculator](/img/MVCLoanCalc.png)
