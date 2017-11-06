@@ -150,6 +150,6 @@ Excerpt from the Controller:
 
 ## Screenshots of working program:
 
-!["Main App Page"](img/HW5 App.png)
+!["Main App Page"](/img/HW5 App.png)
 
-!["SQL DB View Page"](img/HW App2.png)
+!["SQL DB View Page"](/img/HW App2.png)
