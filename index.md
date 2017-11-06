@@ -44,4 +44,11 @@ Homwork 4 was an introduction to MVC and Razor. I found MVC a little difficult t
 The repo with the assignment can be found here: [HW4 Repo](https://github.com/aearl16/CS460_HW4)
 Link to the HW4 description page: [HW4 GH Page](src/hw4.md)
 
+## Homework 5
+
+Homework 5 is a form with a simple virtual DB attatched. This lab will be a challenge as there are multiple pieces to manage. They way I understand it, is that you create a simple database with SQL, upload it to your local server (your machine), and then operate on it from there. The context and model help with this to add a table and fields.
+
+The repo with the assignment can be found here: [HW5 Repo](https://github.com/aearl16/CS460_HW5)
+Link to the HW5 description page: [HW5 GH Page](src/hw5.md)
+
  ----
