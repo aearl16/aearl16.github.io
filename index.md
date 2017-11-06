@@ -35,6 +35,7 @@ Here is a link the HW2 description page [HW2 GH Page](src/hw2.md)
  Conversion of a Java postfix calculator to C#. This project was really interested to do without Java like libraries. I took several approaches to slove the problem and managed to make the conversion.
 
  The repo with the assignment can be found here: [HW3 Repo](https://github.com/aearl16/CS460_HW3)
+
  Link to the HW3 description page: [HW3 GH Page](src/hw3.md)
 
 ## Homework 4
@@ -42,6 +43,7 @@ Here is a link the HW2 description page [HW2 GH Page](src/hw2.md)
 Homwork 4 was an introduction to MVC and Razor. I found MVC a little difficult to understand especially without models. The interactions between peices seemed a little strange. There is definetly a great deal of functionality in MVC vs other frameworks I have worked with.
 
 The repo with the assignment can be found here: [HW4 Repo](https://github.com/aearl16/CS460_HW4)
+
 Link to the HW4 description page: [HW4 GH Page](src/hw4.md)
 
 ## Homework 5
@@ -49,6 +51,7 @@ Link to the HW4 description page: [HW4 GH Page](src/hw4.md)
 Homework 5 is a form with a simple virtual DB attatched. This lab will be a challenge as there are multiple pieces to manage. They way I understand it, is that you create a simple database with SQL, upload it to your local server (your machine), and then operate on it from there. The context and model help with this to add a table and fields.
 
 The repo with the assignment can be found here: [HW5 Repo](https://github.com/aearl16/CS460_HW5)
+
 Link to the HW5 description page: [HW5 GH Page](src/hw5.md)
 
  ----
