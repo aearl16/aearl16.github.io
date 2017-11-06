@@ -152,4 +152,4 @@ Excerpt from the Controller:
 
 !["Main App Page"](/img/HW5 App.png)
 
-!["SQL DB View Page"](/img/HW App2.png)
+!["SQL DB View Page"](/img/HW5 App2.png)
