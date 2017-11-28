@@ -169,9 +169,9 @@ This allowed both viewing and creation of a review by ProductID.
 
 The program in operation:
 
-!["Main App Page"](/img/HW6 App.png)
+!["Main App Page"](/img/HW6_App.png)
 
-!["Product Category Page"](/img/HW6 App2.png)
+!["Product Category Page"](/img/HW6_App2.png)
 
 !["Product Subcategory Page"](/img/HW6_App3.png)
 
