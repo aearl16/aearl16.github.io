@@ -6,7 +6,7 @@ This homework demonstrated the use of a complex database built into a web app. T
 
 The first part of this assignment was the real challenge. Getting the database restore from the backup .bak file. I used SMSS to restore the database but accidentally selected the whole database and not just the Product portion I needed. I deleted that project and started again. After I was able to connect to the internal database I connected to it in LinqPad to test queries and verify the results I expected.
 
-After that I began generating the models and context. I made my own context but for some reason had trouble accessing the model keys. Visual Studio gave me a large error with an ok message when I tried to build. I evnetually gave up on that and had Visual studio generate the context.
+After that I began generating the models and context. I made my own context but for some reason had trouble accessing the model keys. Visual Studio gave me a large error with an ok message when I tried to build. I eventually gave up on that and had Visual studio generate the context.
 
 My home controller managed all of the model binding for create and display. I accidentally forgot my get method early on and ran into a 404 when I tried to display my create page for a reivew. I passed around the IDs for each of the queries that way the end user didn't have to worry about looking it up or not knowing it.
 
