@@ -54,7 +54,7 @@ The repo with the assignment can be found here: [HW5 Repo](https://github.com/ae
 
 Link to the HW5 description page: [HW5 GH Page](src/hw5.md)
 
-## Homework 5
+## Homework 6
 
 Homework 6 introduced a complex database with lots of moving parts. We would be concentrating on the Product portion of the database, generating models, and context for accessing the content in the database. The database was AdventureWorks 2014 from a backup files. From there a webpage was made to display categories and subcategories of products. They a product could be selected from a subcategory and then have its details displayed.
 
