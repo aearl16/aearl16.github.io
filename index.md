@@ -64,7 +64,7 @@ Link to the HW6 description page: [HW6 GH Page](src/hw6.md)
 
 ## Homework 8
 
-Homework 8 introduced a complex relational database. The databse had to be created, queried, and have its information displayed based on that query. The index page will have buttons for each of the Genres of art. When a genre button is clicked, the information on Artists and Artworks will be displayed based on Artwork Title. Ajax is used to prevent from reloading the page every time.
+Homework 8 introduced a complex relational database. The database had to be created, queried, and have its information displayed based on that query. The index page will have buttons for each of the Genres of art. When a genre button is clicked, the information on Artists and Artworks will be displayed based on Artwork Title. Ajax is used to prevent from reloading the page every time.
 
 The repo with the assignment can be found here: [HW8 Repo](https://github.com/aearl16/CS460_HW8)
 

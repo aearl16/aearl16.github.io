@@ -1,6 +1,6 @@
-----
+---
 title: HW8
-----
+---
 # Homework 8
 
 This homework introduced a more complex database and a compmlex main page using Ajax. Instead of reloading the page for a request to the database the page would be reloaded with Ajax and display the queried data. Huge thanks to Devon Smith for pointing out my mistakes, and Stephen Oliver for his masterful writups of our homeworks.
