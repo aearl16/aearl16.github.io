@@ -163,11 +163,11 @@ public JsonResult GenreResult(int? id)
     //var json = jsonSerialiser.Serialize(genreResultList.ToArray());
 
     var artCollection = db.Genres.Where(g => g.GenreID == id)
-                        .Select(x => x.Classifications)
-                        .FirstOrDefault()
-                        .Select(x => new { x.Artwork.Title, x.Artwork.Artist.FullName })
-                        .OrderBy(x => x.Title)
-                        .ToList();
+                                        .Select(x => x.Classifications)
+                                        .FirstOrDefault()
+                                        .Select(x => new { x.Artwork.Title, x.Artwork.Artist.FullName })
+                                        .OrderBy(x => x.Title)
+                                        .ToList();
     return Json(artCollection, JsonRequestBehavior.AllowGet);
 }
 ```
