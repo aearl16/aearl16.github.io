@@ -70,4 +70,12 @@ The repo with the assignment can be found here: [HW8 Repo](https://github.com/ae
 
 Link to the HW8 Description page: [HW8 GH Page](src/hw8.md)
 
+## Homework 9
+
+Homework 9 took homework 8 and deployed it into the cloud on Azure.
+
+Link to HW9 on Azure: [HW9](http://homework8.azurewebsites.net)
+
+Link to HW9 Description page [HW9](src/hw9.md)
+
  ----
