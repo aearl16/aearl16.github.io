@@ -225,3 +225,21 @@ The index page with the div and the commented out table:
 
 </div>
 ```
+
+## Program Screenshots
+
+Crud Operations
+
+!["HW8Create"](/img/HW8Create.png)
+
+!["HW8Details"](/img/HW8Details.png)
+
+!["HW8Edit"](/img/HW8Edit.png)
+
+!["HW8Delete"](/img/HW8Delete.png)
+
+Main Page with Ajax:
+
+!["HW8Main"](/img/HW8Main.png)
+
+!["HW8Artist"](/img/HW8Artist.png)
