@@ -62,6 +62,14 @@ The repo with the assignment can be found here: [HW6 Repo](https://github.com/ae
 
 Link to the HW6 description page: [HW6 GH Page](src/hw6.md)
 
+## Homework 7
+
+Homework 7 introduced a complex single page web application. It used a giphy web api key to query Giphy and return the results to the user and display the content. The query and user data would be logged into a database to keep track of it.
+
+The repo with the assignment can be found here: [HW7 Repo](https://github.com/aearl16/CS460_HW7)
+
+Link to the HW7 description page : [HW7 GH Page](src.hw7.md)
+
 ## Homework 8
 
 Homework 8 introduced a complex relational database. The database had to be created, queried, and have its information displayed based on that query. The index page will have buttons for each of the Genres of art. When a genre button is clicked, the information on Artists and Artworks will be displayed based on Artwork Title. Ajax is used to prevent from reloading the page every time.
