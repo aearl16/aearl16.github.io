@@ -68,7 +68,7 @@ Homework 7 introduced a complex single page web application. It used a giphy web
 
 The repo with the assignment can be found here: [HW7 Repo](https://github.com/aearl16/CS460_HW7)
 
-Link to the HW7 description page : [HW7 GH Page](src.hw7.md)
+Link to the HW7 description page : [HW7 GH Page](src/hw7.md)
 
 ## Homework 8
 
