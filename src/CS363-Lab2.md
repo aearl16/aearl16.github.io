@@ -149,7 +149,7 @@ $(perl –e ‘ print \”x90”x25; print “\x31\xc0\x31\xdb\x31\xc9\x31\xd2\x
 
 The first part of this is called the NOP Sled. This pads the injection with No Ops to ensure that the buffer is overflowed and our code will be inserted. The second print will insert our program into the vulnerable program. The third print takes the return address and runs the program from there. The x5 prints the address 5 times to ensure that the system doesn't shift the addresses to compensate for oveflow. If you find your return addresses keep shifting this could be the most likely cause.
 
-** Hope this helps **
+**Hope this helps**
 
 ## Resources and Notes:
 
