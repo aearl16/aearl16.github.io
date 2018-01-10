@@ -86,4 +86,12 @@ Link to HW9 on Azure: [HW9](http://homework8.azurewebsites.net)
 
 Link to HW9 Description page [HW9](src/hw9.md)
 
+## CS363 Lab 2 Tutorial
+
+This tutorial is for anyone that needs some help with the CS363 Lab 2. Shellcode injection attacks aren't really easy, and it can be hard to identify information you need to actually do it.
+
+Link to the CS363 Repo: [CS363 Repo](https://github.com/aearl16/CS363)
+
+Link to the tutorial: [Lab 2 Tutorial](src/CS363-Lab2.md)
+
  ----

