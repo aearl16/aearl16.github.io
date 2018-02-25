@@ -10,7 +10,7 @@ This will be my main portfolio page, containing descriptions about the kinds of 
 
 ## About Me
 
-Hi, my name is Aaron Earl and I am a senior at Western Oregon university. Currently I am majoring in Computer Science and am working on a minor in Entreprenuership. I plan to graduate in Fall 2018 or spring 2019 depending on scheduling. I am super exceited to be graduating soon and can't wait to get started on some amazing projects. For more information about me visit my [LinkedIn Page](https://www.linkedin.com/in/aaron-earl-0ab12746/).
+Hi, my name is Aaron Earl and I am a senior at Western Oregon University. Currently I am majoring in Computer Science and am working on a minor in Entreprenuership. I plan to graduate in Fall 2018 or spring 2019 depending on scheduling. I am super exceited to be graduating soon and can't wait to get started on some amazing projects. For more information about me visit my [LinkedIn Page](https://www.linkedin.com/in/aaron-earl-0ab12746/).
 
 ## CS 461 Senior Project: OpenBoard
 
