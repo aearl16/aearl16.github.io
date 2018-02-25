@@ -10,13 +10,13 @@ This will be my main portfolio page, containing descriptions about the kinds of 
 
 ## About Me
 
-Hi, my name is Aaron Earl and I am a senior at Western Oregon university. Currently I am majoring in Computer Science and am working on a minor in Entreprenuership. I plan to graduate in Fall 2018 or spring 2019 depending on scheduling. I am super exceited to be graduating soon and can't wait to get started on some amazing projects. For more information visit my [LinkedIn Page](https://www.linkedin.com/in/aaron-earl-0ab12746/).
+Hi, my name is Aaron Earl and I am a senior at Western Oregon university. Currently I am majoring in Computer Science and am working on a minor in Entreprenuership. I plan to graduate in Fall 2018 or spring 2019 depending on scheduling. I am super exceited to be graduating soon and can't wait to get started on some amazing projects. For more information about me visit my [LinkedIn Page](https://www.linkedin.com/in/aaron-earl-0ab12746/).
 
 ## CS 461 Senior Project: OpenBoard
 
 OpenBoard is a free command line based scrum board server application that is free and lightweight. It is primarily intended for folks working in DevOps or Linux Administration that still need access to a scrum board. There aren't many free options available for Agile workflows, and programs like Jira can only be accessed through the web. The application will also provide future functionality for a graphical client interface that will present a board and backlog similar to other applications. 
 
-    **Disclaimer:** OpenBoard is my senior project and cannot be treated like FOSS software (at least until I graduate). Thank You!
+    Disclaimer: OpenBoard is my senior project and cannot be treated like FOSS software (at least until I graduate). Thank You!
 
 ## OpenBoard Information
 
