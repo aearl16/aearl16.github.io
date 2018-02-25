@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: Aaron Earl's Portfolio
-description: Portfolio
+description: Portfolio And Description Of Work
 plugins:
    - jekyll-mentions
