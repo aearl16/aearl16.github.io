@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
+title: Portfolio
+description: Description Of Work And Projects
 plugins:
    - jekyll-mentions
