@@ -6,7 +6,7 @@ title: Aaron Earl
 
 # Welcome to My Github Page!
 
-This will be my main portfolio page, conataining descriptions abou the kinds of programming I have done and descriptions of my open source projects.
+This will be my main portfolio page, containing descriptions about the kinds of programming I have done and descriptions of my open source projects.
 
 ## About Me
 
